@@ -706,6 +706,32 @@
           "targetFile" : "Core/Solaris7/contracts/off-season/Mech/solaris_offseason_4x4battle_mech_2.json",
           "priority" : 20,
           "patch" : {
+            "OnContractSuccessResults": [
+                {
+                  "Scope": "Company",
+                  "Requirements": null,
+                  "AddedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "RemovedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "Stats": null,
+                  "Actions": [
+                    {
+                      "Type": "System_ShowRewards",
+                      "value": "SolarisOffseasonReward",
+                      "valueConstant": null,
+                      "additionalValues": null
+                    }
+                  ],
+                  "ForceEvents": null,
+                  "TemporaryResult": false,
+                  "ResultDuration": 0
+                }
+              ],
             "contractRewardOverride": 300000
           }
         },
@@ -713,6 +739,32 @@
           "targetFile" : "Core/Solaris7/contracts/off-season/Mech/solaris_offseason_4x4battle_mech_5.json",
           "priority" : 20,
           "patch" : {
+            "OnContractSuccessResults": [
+                {
+                  "Scope": "Company",
+                  "Requirements": null,
+                  "AddedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "RemovedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "Stats": null,
+                  "Actions": [
+                    {
+                      "Type": "System_ShowRewards",
+                      "value": "SolarisOffseasonReward",
+                      "valueConstant": null,
+                      "additionalValues": null
+                    }
+                  ],
+                  "ForceEvents": null,
+                  "TemporaryResult": false,
+                  "ResultDuration": 0
+                }
+              ],
             "contractRewardOverride": 400000
           }
         },
@@ -720,6 +772,32 @@
           "targetFile" : "Core/Solaris7/contracts/off-season/Mech/solaris_offseason_4x4battle_mech_8.json",
           "priority" : 20,
           "patch" : {
+            "OnContractSuccessResults": [
+                {
+                  "Scope": "Company",
+                  "Requirements": null,
+                  "AddedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "RemovedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "Stats": null,
+                  "Actions": [
+                    {
+                      "Type": "System_ShowRewards",
+                      "value": "SolarisOffseasonReward",
+                      "valueConstant": null,
+                      "additionalValues": null
+                    }
+                  ],
+                  "ForceEvents": null,
+                  "TemporaryResult": false,
+                  "ResultDuration": 0
+                }
+              ],
             "contractRewardOverride": 500000
           }
         },
@@ -748,6 +826,32 @@
           "targetFile" : "Core/Solaris7/contracts/off-season/Mech/solaris_offseason_4x4freeforall_mech_2.json",
           "priority" : 20,
           "patch" : {
+            "OnContractSuccessResults": [
+                {
+                  "Scope": "Company",
+                  "Requirements": null,
+                  "AddedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "RemovedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "Stats": null,
+                  "Actions": [
+                    {
+                      "Type": "System_ShowRewards",
+                      "value": "SolarisOffseasonReward",
+                      "valueConstant": null,
+                      "additionalValues": null
+                    }
+                  ],
+                  "ForceEvents": null,
+                  "TemporaryResult": false,
+                  "ResultDuration": 0
+                }
+              ],
             "contractRewardOverride": 350000
           }
         },
@@ -755,6 +859,32 @@
           "targetFile" : "Core/Solaris7/contracts/off-season/Mech/solaris_offseason_4x4freeforall_mech_5.json",
           "priority" : 20,
           "patch" : {
+            "OnContractSuccessResults": [
+                {
+                  "Scope": "Company",
+                  "Requirements": null,
+                  "AddedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "RemovedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "Stats": null,
+                  "Actions": [
+                    {
+                      "Type": "System_ShowRewards",
+                      "value": "SolarisOffseasonReward",
+                      "valueConstant": null,
+                      "additionalValues": null
+                    }
+                  ],
+                  "ForceEvents": null,
+                  "TemporaryResult": false,
+                  "ResultDuration": 0
+                }
+              ],
             "contractRewardOverride": 450000
           }
         },
@@ -762,6 +892,32 @@
           "targetFile" : "Core/Solaris7/contracts/off-season/Mech/solaris_offseason_4x4freeforall_mech_8.json",
           "priority" : 20,
           "patch" : {
+            "OnContractSuccessResults": [
+                {
+                  "Scope": "Company",
+                  "Requirements": null,
+                  "AddedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "RemovedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "Stats": null,
+                  "Actions": [
+                    {
+                      "Type": "System_ShowRewards",
+                      "value": "SolarisOffseasonReward",
+                      "valueConstant": null,
+                      "additionalValues": null
+                    }
+                  ],
+                  "ForceEvents": null,
+                  "TemporaryResult": false,
+                  "ResultDuration": 0
+                }
+              ],
             "contractRewardOverride": 550000
           }
         },
@@ -769,6 +925,32 @@
           "targetFile" : "Core/Solaris7/contracts/off-season/Mech/solaris_offseason_8x8battle_mech_2.json",
           "priority" : 20,
           "patch" : {
+            "OnContractSuccessResults": [
+                {
+                  "Scope": "Company",
+                  "Requirements": null,
+                  "AddedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "RemovedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "Stats": null,
+                  "Actions": [
+                    {
+                      "Type": "System_ShowRewards",
+                      "value": "SolarisOffseasonReward",
+                      "valueConstant": null,
+                      "additionalValues": null
+                    }
+                  ],
+                  "ForceEvents": null,
+                  "TemporaryResult": false,
+                  "ResultDuration": 0
+                }
+              ],
             "contractRewardOverride": 400000
           }
         },
@@ -776,6 +958,32 @@
           "targetFile" : "Core/Solaris7/contracts/off-season/Mech/solaris_offseason_8x8battle_mech_5.json",
           "priority" : 20,
           "patch" : {
+            "OnContractSuccessResults": [
+                {
+                  "Scope": "Company",
+                  "Requirements": null,
+                  "AddedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "RemovedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "Stats": null,
+                  "Actions": [
+                    {
+                      "Type": "System_ShowRewards",
+                      "value": "SolarisOffseasonReward",
+                      "valueConstant": null,
+                      "additionalValues": null
+                    }
+                  ],
+                  "ForceEvents": null,
+                  "TemporaryResult": false,
+                  "ResultDuration": 0
+                }
+              ],
             "contractRewardOverride": 550000
           }
         },
@@ -783,6 +991,32 @@
           "targetFile" : "Core/Solaris7/contracts/off-season/Mech/solaris_offseason_8x8battle_mech_8.json",
           "priority" : 20,
           "patch" : {
+            "OnContractSuccessResults": [
+                {
+                  "Scope": "Company",
+                  "Requirements": null,
+                  "AddedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "RemovedTags": {
+                    "items": [],
+                    "tagSetSourceFile": ""
+                  },
+                  "Stats": null,
+                  "Actions": [
+                    {
+                      "Type": "System_ShowRewards",
+                      "value": "SolarisOffseasonReward",
+                      "valueConstant": null,
+                      "additionalValues": null
+                    }
+                  ],
+                  "ForceEvents": null,
+                  "TemporaryResult": false,
+                  "ResultDuration": 0
+                }
+              ],
             "contractRewardOverride": 700000
           }
         },
