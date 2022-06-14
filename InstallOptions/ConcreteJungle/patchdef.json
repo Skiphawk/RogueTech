@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "patches": [
+        {
+          "targetFile" : "Core/ConcreteJungle/mod.json",
+          "priority" : 20,
+          "patch" : {
+            "Enabled": true
+          }
+        }
+    ]
+}

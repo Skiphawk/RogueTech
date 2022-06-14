@@ -3,7 +3,7 @@
 	<LancherUpdateUrl>https://discourse.modsinexile.com/t/rogue-tech/134</LancherUpdateUrl>
 	<RequiredBattleTechVersion>1.9.1</RequiredBattleTechVersion>
 	<RequiredLauncherVersion>1.3.3</RequiredLauncherVersion>
-	<SecureHash>Fj0WpBaKFpYWfxb5Fu8WxxZmFrMW5hZWFr0WsxYXFuk=</SecureHash>
+	<SecureHash>Fv0WlxYAFnMWDhbHFg0WOBZtFvEWnBalFoQWjRa8FjA=</SecureHash>
 	<showCoreItems>false</showCoreItems>
 	<Tasks>
 		<InstallTask>
@@ -529,7 +529,7 @@
 			<promptText>Challenging Content! Urban Biomes will be rough.\n\nAre you sure you want to enable?;;BASEMENT DEMOLISHERS WOOO!!;;No</promptText>
 			<saveBreaking>false</saveBreaking>
 			<sourcePath>InstallOptions/ConcreteJungle</sourcePath>
-			<targetPath>Options/ConcreteJungle</targetPath>
+			<targetPath>Core/ConcreteJungle</targetPath>
 			<uiDescription>Urban Biomes my includes ambushes, traps and destroyed environment. +2% Online Progress.</uiDescription>
 			<uiName>Change Urban Biomes to wartorn Nightmares</uiName>
 		</InstallTask>

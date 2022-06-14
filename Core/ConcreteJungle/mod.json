@@ -1,6 +1,6 @@
 {
     "Name": "ConcreteJungle",
-    "Enabled": true,
+    "Enabled": false,
     "Version": "0.6.0",
     "Description": "Provides fun surprises on urban maps.",
     "Author": "IceRaptor",
