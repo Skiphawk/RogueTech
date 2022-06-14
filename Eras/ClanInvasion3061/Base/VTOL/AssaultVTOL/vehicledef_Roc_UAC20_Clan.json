@@ -42,7 +42,7 @@
   },
   "ChassisID": "vehiclechassisdef_Roc_UAC20_Clan",
   "Description": {
-    "Cost": 26011416,
+    "Cost": 26419416,
     "Rarity": 0,
     "Purchasable": false,
     "UIName": "Roc (UAC)",
@@ -98,14 +98,14 @@
     },
     {
       "MountedLocation": "Front",
-      "ComponentDefID": "Weapon_Laser_MediumLaserPulse_CLAN",
+      "ComponentDefID": "Weapon_Laser_MediumLaserER_CLAN",
       "ComponentDefType": "Weapon",
       "HardpointSlot": 1,
       "DamageLevel": "Functional"
     },
     {
       "MountedLocation": "Front",
-      "ComponentDefID": "Weapon_Laser_MediumLaserPulse_CLAN",
+      "ComponentDefID": "Weapon_Laser_MediumLaserER_CLAN",
       "ComponentDefType": "Weapon",
       "HardpointSlot": 1,
       "DamageLevel": "Functional"
@@ -175,6 +175,13 @@
     },
     {
       "MountedLocation": "Front",
+      "ComponentDefID": "Gear_TargetingTrackingSystem_Evasion",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": 1,
+      "DamageLevel": "Functional"
+    },
+    {
+      "MountedLocation": "Front",
       "ComponentDefID": "Gear_TargetingTrackingSystem_Kallon_HardLock",
       "ComponentDefType": "Upgrade",
       "HardpointSlot": 1,
@@ -189,16 +196,16 @@
     },
     {
       "MountedLocation": "Front",
-      "ComponentDefID": "Gear_TargetingTrackingSystem_Evasion",
-      "ComponentDefType": "Upgrade",
-      "HardpointSlot": 1,
-      "DamageLevel": "Functional"
-    },
-    {
-      "MountedLocation": "Front",
       "ComponentDefID": "Tank_CrewCompartment",
       "ComponentDefType": "Upgrade",
       "HardpointSlot": -1,
+      "DamageLevel": "Functional"
+    },
+    {
+      "MountedLocation": "Rear",
+      "ComponentDefID": "Gear_Angel_ECM",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": 1,
       "DamageLevel": "Functional"
     },
     {
@@ -210,9 +217,9 @@
     },
     {
       "MountedLocation": "Rear",
-      "ComponentDefID": "Gear_Guardian_ECM_CLAN",
+      "ComponentDefID": "emod_armorslots_clanheavyferrosfibrous",
       "ComponentDefType": "Upgrade",
-      "HardpointSlot": 1,
+      "HardpointSlot": -1,
       "DamageLevel": "Functional"
     },
     {
@@ -220,13 +227,6 @@
       "ComponentDefID": "emod_structureslots_standard",
       "ComponentDefType": "Upgrade",
       "HardpointSlot": -1
-    },
-    {
-      "MountedLocation": "Rear",
-      "ComponentDefID": "emod_armorslots_clanheavyferrosfibrous",
-      "ComponentDefType": "Upgrade",
-      "HardpointSlot": -1,
-      "DamageLevel": "Functional"
     },
     {
       "MountedLocation": "Turret",
