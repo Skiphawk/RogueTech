@@ -3,7 +3,7 @@
 	<LancherUpdateUrl>https://discourse.modsinexile.com/t/rogue-tech/134</LancherUpdateUrl>
 	<RequiredBattleTechVersion>1.9.1</RequiredBattleTechVersion>
 	<RequiredLauncherVersion>1.3.3</RequiredLauncherVersion>
-	<SecureHash>FrwWKxbVFpwWFxZjFtsW8hYcFl8WIhY2FtIWShZcFs0=</SecureHash>
+	<SecureHash>FpUW9BbxFtwW8RbCFkMWgBa3FrYWuBZHFoQWOBYRFgM=</SecureHash>
 	<showCoreItems>false</showCoreItems>
 	<Tasks>
 		<InstallTask>
@@ -2032,7 +2032,7 @@
 			<OnHideSelect/>
 			<isHidden>false</isHidden>
 			<optionDescription>Concrete Jungle</optionDescription>
-			<optionId>ConcreteJungleCore</optionId>
+			<optionId>CoreConcreteJungle</optionId>
 			<optionType>MultiSelectOption</optionType>
 			<optionUiName>Concrete Jungle</optionUiName>
 			<requiredOption/>
